@@ -1,2 +1,9 @@
-# tester-pod
-A small, Simple test pod to validate connectivity in a kubernetes cluster
+## Test services in Kubernetes
+
+Contains:
+
+* psql for postscript
+* curl
+* nslookup (part of alpine bind-tools)
+
+### Building the image for multiple platforms
